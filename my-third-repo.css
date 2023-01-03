@@ -5,3 +5,8 @@ p{
 .paragraph{
        color: pink;
 }
+.my-photo{
+    color: maroon;
+    background-image: url("../imge/riyad1.jpg");
+    background-size: cover;
+}
